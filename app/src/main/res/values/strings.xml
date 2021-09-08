@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application1</string>
+    <string name="comprobar">Comprobar</string>
+    <string name="ingrese_el_numero_a_comprobar">Ingrese el numero a comprobar</string>
+</resources>
